@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "pikachu.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "width" : 0.025000000000000001
+  }
+}
